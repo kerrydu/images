@@ -1,0 +1,9 @@
+v 2.0
+d 'gitee': install, and uninstall Stata packages from Gitee website
+d 
+d Distribution-Date:   20200225
+d 
+F gitee.ado
+F gitee.sthlp
+
+
